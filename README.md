@@ -15,9 +15,9 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Java 
+- 💻 &nbsp; Java | Javascript
 - 🛢 &nbsp; MySQL | Postgres | MongoDB
-- 🔧 &nbsp; Eclipse | Intelij | Git
+- 🔧 &nbsp; Eclipse | Intelij | Git | Microsoft Studio
 
 <br>
 
